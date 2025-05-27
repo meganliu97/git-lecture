@@ -1,7 +1,5 @@
 avocado
 tomato
 lime
-garlic
-cilantro
 salt
 pepper
